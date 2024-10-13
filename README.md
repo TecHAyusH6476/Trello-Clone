@@ -67,15 +67,14 @@ git clone https://github.com/TecHAyusH6476/Trello-Clone.git
 - Navigate to the project directory.
 
 ```bash
-cd master-web-development
+cd Trello-Clone
 ```
 <p>
   
 * Create new branch for your feature.
 
 * Make all changes of source code in new branch.
-  
-<img src="./assets/image/branch.png">
+
  </p>
  
 * Stage your changes and commit
