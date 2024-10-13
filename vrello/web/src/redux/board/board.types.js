@@ -1,0 +1,15 @@
+const BoardActionTypes = {
+  INIT: 'INIT',
+  ADD_CARD: 'ADD_CARD',
+  ADD_COLUMN: 'ADD_COLUMN',
+  MOVE_CARD: 'MOVE_CARD',
+  MOVE_COLUMN: 'MOVE_COLUMN',
+  CHANGE_BG: 'CHANGE_BG',
+  RENAME: 'RENAME',
+  RENAME_COLUMN: 'RENAME_COLUMN',
+  RESET: 'RESET',
+  DELETE_BOARD: 'DELETE_BOARD',
+  NO_ACCESS: 'NO_ACCESS',
+};
+
+export default BoardActionTypes;
