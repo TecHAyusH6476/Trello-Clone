@@ -62,7 +62,7 @@ Click on the <a href="https://github.com/iamrahulmahato/master-web-development">
 - Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/master-web-development
+git clone [https://github.com/<your-github-username>/master-web-development](https://github.com/TecHAyusH6476/Trello-Clone.git)
 ```
 - Navigate to the project directory.
 
