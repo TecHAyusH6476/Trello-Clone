@@ -1,6 +1,6 @@
 <p align="center">
   <a href="your-website-link.com">
-    <img alt="Trello Clone" height="80" src="./assets/image/trello-clone.png">
+    <img alt="Trello Clone" height="80" src="./assets/Screenshot from 2024-10-13 16-44-35.png">
   </a>
 </p>
 <h1 align="center">Trello Clone</h1>
